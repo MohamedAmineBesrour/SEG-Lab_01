@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 rayane chemsi
 
@@ -11,3 +12,9 @@ Kevin Ghneim
 =======
 Maxime Cardinal
 >>>>>>> 3600b09 (Create team.txt)
+=======
+Maxime Cardinal
+Dallaire
+Kevin Ghneim
+Mohamed Amine Bessrour
+>>>>>>> 5c865b6 (Update team.txt)
