@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 rayane chemsi
 
 Dallaire
 Mohamed Amine Bessrour
+=======
+Kevin Ghneim
+>>>>>>> c5fc828 (Team file)
