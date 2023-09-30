@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-=======
 Maxime Cardinal
 Dallaire
 Kevin Ghneim
->>>>>>> 6ce1f4c3e9249ef734d878baf9587dde4021ac99
+Mohamed Amine Bessrour
